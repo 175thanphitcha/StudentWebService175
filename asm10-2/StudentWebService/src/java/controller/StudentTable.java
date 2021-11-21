@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this tstudlate file, choose Tools | Tstudlates
- * and open the tstudlate in the editor.
- */
 package controller;
 
 import java.util.List;
@@ -14,10 +9,6 @@ import javax.persistence.Persistence;
 import javax.persistence.Query;
 import model.Student;
 
-/**
- *
- * @author nemishappy
- */
 public class StudentTable {
 
     public static void insertStudent(Student stud) {
